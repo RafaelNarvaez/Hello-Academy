@@ -1,3 +1,3 @@
 # Hello-Academy
 
-<p> I thought that learning Web Development would be easy!</paaaaaa
+<p> I thought that learning Web Development would be easy!</p>
